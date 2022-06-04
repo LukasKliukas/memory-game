@@ -1,0 +1,9 @@
+.grid {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr 1fr;
+  height: 384px;
+  width: 512px;
+}
+img {
+  cursor: pointer;
+}
