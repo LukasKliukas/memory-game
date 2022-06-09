@@ -80,7 +80,7 @@ document.addEventListener('DOMContentLoaded', () => {
     } else {
       cards[optionOneId].setAttribute('src', 'images/blank.png');
       cards[optionTwoId].setAttribute('src', 'images/blank.png');
-      alert('Sorry, try again');
+      // alert('Sorry, try again');
     }
     cardsChosen = [];
     cardsChosenId = [];
